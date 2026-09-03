@@ -1,0 +1,16 @@
+a = -50
+b = 20.0
+print(a + b)
+print(a - b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a*b)
+print(a**b)
+print(type(a+b))
+print(type(a-b))
+print(type(a / b))
+print(type(a // b))
+print(type(a**b))
+print(type(a * b))
+print(type(a%b))
