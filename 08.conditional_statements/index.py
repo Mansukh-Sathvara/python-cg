@@ -3,29 +3,29 @@ a=int(input("Enter your Number :"))
 if a>10:
     print("your number is corect :")
 
-q2
+# q2
 a=int(input("Enter your age :"))
 
 if a>18:
     print("Your are a Adult")
 
-q3
+# q3
 num=float(input("Enter your number :"))
 if num>0:
     print("Positive")
 
-q4
+#q4
 marks=float(input("Enter your marks :"))
 if marks>=40:
     print("your are pass.")
 
-q5
+#q5
 a=int(input("Enter your your number :"))
 
 if a==0:
     print("zero")
 
-q6
+#q6
 num=int(input("enter your number :"))
 if num>0:
     print("positive :")
@@ -33,7 +33,7 @@ if num>0:
 else:
     print("Not positive :")       
 
-q7
+#q7
 age=int(input("Enter your age :"))
 if age>=18:
     print("Your are Adult :")
@@ -41,7 +41,7 @@ if age>=18:
 else:
     print("your are Minor :")    
 
-q8
+#q8
 num=int(input("enter your number :"))
 if num%2==0:
     print("even number :")
@@ -49,7 +49,7 @@ if num%2==0:
 else:
     print("odd number :")
 
-q9
+#q9
 marks=float(input("Enter your marks :"))
 if marks>=40:
     print("Your are a pass :")
@@ -57,7 +57,7 @@ if marks>=40:
 else:
     print("Your are a fail :")    
 
-q10
+#q10
 num1=float(input("enter your first number :"))
 num2=float(input("enter your second number :"))
 if num1>=num2:
@@ -159,7 +159,7 @@ elif age>=60:
 else:
     print("minor")
 
-q20
+#q20
 num=int(input("Enter your number :"))
 if num%10!=0:
     if num>0:
@@ -238,7 +238,7 @@ if is_student==True and has_id==True and has_ticket==True:
 else:
     print("not Allowed")    
 
-q30
+#q30
 age=int(input("enter age:"))
 marks=int(input("enter marks:"))
 has_id=int(input("enter id:"))
